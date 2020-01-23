@@ -1,0 +1,27 @@
+{
+  "name": "css-url-linter",
+  "version": "1.0.0",
+  "author": "Peter deHaan",
+  "bin": {
+    "css-url-linter": "cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/pdehaan/css-url-linter/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "convict": "^5.2.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/css-url-linter#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "lib.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/css-url-linter.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
