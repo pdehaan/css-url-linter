@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "axios": "^0.21.2",
-    "convict": "^6.2.3"
+    "convict": "^6.2.4"
   },
   "devDependencies": {},
   "homepage": "https://github.com/pdehaan/css-url-linter#readme",
